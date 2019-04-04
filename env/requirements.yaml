@@ -10,6 +10,9 @@ dependencies:
 - name: front-reference-static
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.14
+- name: front-reference-test
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: majanoatope
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
